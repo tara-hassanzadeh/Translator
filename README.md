@@ -40,15 +40,10 @@ This program allows you to translate text into multiple languages and practice w
 
 ## 🛠️ Library & Installation
 
-This project uses the **`deep-translator`** library for Google Translate:
-
-```bash
-pip install deep-translator
-
 If using Google Colab, run:
 !pip install deep-translator --quiet
 
-🔗 Access to Code
+🔗 Access to Code:
 
 You can view and run the code on Google Colab:
 [🚀 Open in Colab](#)  <!-- https://colab.research.google.com/github/tara-hassanzadeh/Translator/blob/main/translator.ipynb -->
