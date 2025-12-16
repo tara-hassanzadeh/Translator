@@ -46,4 +46,4 @@ If using Google Colab, run:
 🔗 Access to Code:
 
 You can view and run the code on Google Colab:
-[🚀 Open in Colab](#)  <-- https://colab.research.google.com/github/tara-hassanzadeh/Translator/blob/main/translator.ipynb -->
+[🚀 Open in Colab](-- https://colab.research.google.com/github/tara-hassanzadeh/Translator/blob/main/translator.ipynb --)
